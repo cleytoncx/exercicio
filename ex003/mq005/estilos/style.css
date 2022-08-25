@@ -58,7 +58,8 @@ a:hover {
 }
 
 main {
-    width: 90vw;
+    width: 80vw;
+    border-radius: 20px;
     background-color: lightskyblue;
     margin: auto;
     margin-top: 10px;
